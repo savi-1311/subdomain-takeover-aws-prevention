@@ -146,5 +146,10 @@ Create [EventBridge rules](https://docs.aws.amazon.com/eventbridge/latest/usergu
 }
 ```
 
+
+# Project Demo
+https://github.com/user-attachments/assets/03e6c7c7-e1b9-4e6d-a49f-ef05ec9e8cf4
+
+
 ## 🔧 Other Configurations:
 Please ensure that [AWS Cloudtrail](https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-user-guide.html) is enabled and successfully captures logs.
